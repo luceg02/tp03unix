@@ -1,4 +1,4 @@
-#TP03 UNIX LUCE GIOVANNETTI
+# TP03 UNIX LUCE GIOVANNETTI
 Pour tous les exercices, je crée les fichiers et j'écris dedans avec la commande nano, puis je donne les permissions avec chmod +x.
 
 ## Exercice : paramètres
